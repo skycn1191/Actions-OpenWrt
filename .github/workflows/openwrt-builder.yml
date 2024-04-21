@@ -80,7 +80,7 @@ jobs:
         $GITHUB_WORKSPACE/$DIY_P2_SH
 
     - name: SSH connection to Actions
-      uses: skycn1191/Actions-OpenWrt@master
+      uses: skycn1191/Actions-OpenWrt@main
       if: env.SSH_ACTIONS == 'true'
 
     - name: Download package
