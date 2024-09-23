@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder 7621a
+name: OpenWrt Builder 7621c
 
 on:
   repository_dispatch:
